@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="2800" height="780">    
+    <entity x="100" y="100" type="platform1"/>
+    <entity x="343" y="200" type="platform1"/>
+    <entity x="586" y="240" type="platform3"/>
+    <entity x="819" y="200" type="platform2"/>
+    <entity x="1062" y="200" type="platform1"/>
+    <entity x="1305" y="200" type="platform2"/>
+    <entity x="1548" y="240" type="platform3"/>
+    <entity x="1801" y="330" type="platform3"/>
+    <entity x="2044" y="100" type="platform1"/>
+    <entity x="2287" y="200" type="platform3"/>
+    <entity x="2530" y="240" type="platform3"/>
+    
+    <entity x="2680" y="400" type="levelComplete"/>
+   
+    <entity x="343" y="305" type="gem"/>
+    <entity x="586" y="305" type="gem"/>
+    <entity x="819" y="345" type="gem"/>
+    <entity x="1062" y="305" type="gem"/>
+    <entity x="1305" y="305" type="gem"/>
+    <entity x="1548" y="345" type="gem"/>
+    <entity x="1801" y="435" type="gem"/>
+    <entity x="2044" y="205" type="gem"/>
+    <entity x="2287" y="305" type="gem"/>
+    <entity x="2530" y="345" type="gem"/>
+  
+    <entity x="60" y="140" type="player"/>
+</level>
